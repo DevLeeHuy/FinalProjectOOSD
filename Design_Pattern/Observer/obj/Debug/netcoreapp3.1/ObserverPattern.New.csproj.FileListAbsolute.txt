@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Observer\bin\Debug\netcoreapp3.1\ObserverPattern.New.exe
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Observer\bin\Debug\netcoreapp3.1\ObserverPattern.New.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Observer\bin\Debug\netcoreapp3.1\ObserverPattern.New.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Observer\bin\Debug\netcoreapp3.1\ObserverPattern.New.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Observer\bin\Debug\netcoreapp3.1\ObserverPattern.New.dll
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Observer\bin\Debug\netcoreapp3.1\ObserverPattern.New.pdb
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Observer\obj\Debug\netcoreapp3.1\ObserverPattern.New.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Observer\obj\Debug\netcoreapp3.1\ObserverPattern.New.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Observer\obj\Debug\netcoreapp3.1\ObserverPattern.New.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Observer\obj\Debug\netcoreapp3.1\ObserverPattern.New.dll
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Observer\obj\Debug\netcoreapp3.1\ObserverPattern.New.pdb
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Observer\obj\Debug\netcoreapp3.1\ObserverPattern.New.genruntimeconfig.cache

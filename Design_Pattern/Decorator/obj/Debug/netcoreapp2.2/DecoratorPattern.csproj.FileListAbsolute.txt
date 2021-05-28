@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Decorator\obj\Debug\netcoreapp2.2\DecoratorPattern.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Decorator\obj\Debug\netcoreapp2.2\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Decorator\obj\Debug\netcoreapp2.2\DecoratorPattern.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Decorator\obj\Debug\netcoreapp2.2\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Decorator\bin\Debug\netcoreapp2.2\DecoratorPattern.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Decorator\bin\Debug\netcoreapp2.2\DecoratorPattern.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Decorator\bin\Debug\netcoreapp2.2\DecoratorPattern.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Decorator\bin\Debug\netcoreapp2.2\DecoratorPattern.dll
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Decorator\bin\Debug\netcoreapp2.2\DecoratorPattern.pdb
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Decorator\obj\Debug\netcoreapp2.2\DecoratorPattern.dll
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Decorator\obj\Debug\netcoreapp2.2\DecoratorPattern.pdb
+C:\Users\Dell\OneDrive\Desktop\OOSD\temp_oosd\Decorator\obj\Debug\netcoreapp2.2\DecoratorPattern.genruntimeconfig.cache
