@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\Builder_menu\bin\Debug\netcoreapp3.1\Builder_menu.exe
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\Builder_menu\bin\Debug\netcoreapp3.1\Builder_menu.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\Builder_menu\bin\Debug\netcoreapp3.1\Builder_menu.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\Builder_menu\bin\Debug\netcoreapp3.1\Builder_menu.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\Builder_menu\bin\Debug\netcoreapp3.1\Builder_menu.dll
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\Builder_menu\bin\Debug\netcoreapp3.1\Builder_menu.pdb
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\Builder_menu\obj\Debug\netcoreapp3.1\Builder_menu.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\Builder_menu\obj\Debug\netcoreapp3.1\Builder_menu.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\Builder_menu\obj\Debug\netcoreapp3.1\Builder_menu.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\Builder_menu\obj\Debug\netcoreapp3.1\Builder_menu.dll
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\Builder_menu\obj\Debug\netcoreapp3.1\Builder_menu.pdb
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\Builder_menu\obj\Debug\netcoreapp3.1\Builder_menu.genruntimeconfig.cache
