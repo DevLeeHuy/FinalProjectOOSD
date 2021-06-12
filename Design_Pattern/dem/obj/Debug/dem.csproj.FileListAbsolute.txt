@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\de\dem\dem\bin\Debug\dem.exe.config
+C:\Users\DELL\Desktop\de\dem\dem\bin\Debug\dem.exe
+C:\Users\DELL\Desktop\de\dem\dem\bin\Debug\dem.pdb
+C:\Users\DELL\Desktop\de\dem\dem\obj\Debug\dem.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\de\dem\dem\obj\Debug\dem.Properties.Resources.resources
+C:\Users\DELL\Desktop\de\dem\dem\obj\Debug\dem.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\de\dem\dem\obj\Debug\dem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\de\dem\dem\obj\Debug\dem.exe
+C:\Users\DELL\Desktop\de\dem\dem\obj\Debug\dem.pdb
