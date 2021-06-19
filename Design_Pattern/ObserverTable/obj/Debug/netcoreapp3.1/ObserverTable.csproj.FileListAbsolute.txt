@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\ObserverTable\bin\Debug\netcoreapp3.1\ObserverTable.exe
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\ObserverTable\bin\Debug\netcoreapp3.1\ObserverTable.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\ObserverTable\bin\Debug\netcoreapp3.1\ObserverTable.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\ObserverTable\bin\Debug\netcoreapp3.1\ObserverTable.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\ObserverTable\bin\Debug\netcoreapp3.1\ObserverTable.dll
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\ObserverTable\bin\Debug\netcoreapp3.1\ObserverTable.pdb
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\ObserverTable\obj\Debug\netcoreapp3.1\ObserverTable.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\ObserverTable\obj\Debug\netcoreapp3.1\ObserverTable.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\ObserverTable\obj\Debug\netcoreapp3.1\ObserverTable.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\ObserverTable\obj\Debug\netcoreapp3.1\ObserverTable.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\ObserverTable\obj\Debug\netcoreapp3.1\ObserverTable.dll
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\ObserverTable\obj\Debug\netcoreapp3.1\ObserverTable.pdb
+C:\Users\Dell\OneDrive\Desktop\OOSD\FinalProjectOOSD\Design_Pattern\ObserverTable\obj\Debug\netcoreapp3.1\ObserverTable.genruntimeconfig.cache
